@@ -1,6 +1,6 @@
 #  📈 **Stock Trading Platform**
 
-Stock Trading Platform** is a Java-based console application that simulates basic stock trading. Users can view market data, buy stocks, sell stocks, and review their portfolio. The project demonstrates fundamental Java programming concepts such as:
+Stock Trading Platforms is a Java-based console application that simulates basic stock trading. Users can view market data, buy stocks, sell stocks, and review their portfolio. The project demonstrates fundamental Java programming concepts such as:
 
 * Object-Oriented Design
 * Collections (`ArrayList` and `HashMap`)
