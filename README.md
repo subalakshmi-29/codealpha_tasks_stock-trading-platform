@@ -1,4 +1,4 @@
- 📈 **Stock Trading Platform**
+#  📈 **Stock Trading Platform**
 
 Stock Trading Platform** is a Java-based console application that simulates basic stock trading. Users can view market data, buy stocks, sell stocks, and review their portfolio. The project demonstrates fundamental Java programming concepts such as:
 
@@ -6,7 +6,7 @@ Stock Trading Platform** is a Java-based console application that simulates basi
 * Collections (`ArrayList` and `HashMap`)
 * Handling user input with the `Scanner` class
 
-🚀 **Features**
+# 🚀 **Features**
 
 ✅ **View Market Data** – Display a list of available stocks with their current prices.
 ✅ **Buy Stocks** – Purchase stocks if you have enough balance.
@@ -14,13 +14,13 @@ Stock Trading Platform** is a Java-based console application that simulates basi
 ✅ **View Portfolio** – Check your current stock holdings and remaining balance.
 ✅ **Interactive Menu** – Simple, text-based navigation through the application.
 
-🛠️ **Technologies Used**
+# 🛠️ **Technologies Used**
 
 * **Java** (JDK 8 or higher)
 * **Collections**: `ArrayList`, `HashMap`
 * **Scanner**: For handling console input
 
-📦 **Installation & Setup**
+# 📦 **Installation & Setup**
 
 Follow these steps to run the application on your local machine:
 
@@ -48,7 +48,7 @@ javac StockTradingPlatform.java
 java StockTradingPlatform
 ```
 
-🧭 **Usage Instructions**
+# 🧭 **Usage Instructions**
 
 Upon running the application, you will see a menu like this:
 
@@ -68,9 +68,7 @@ Options:
 * **4. View Portfolio** – Displays your current stock holdings and cash balance.
 * **5. Exit** – Closes the application.
 
-
-
-🏗️ **Code Structure**
+# 🏗️ **Code Structure**
 
 * **`Stock` Class** – Represents a stock with its symbol and price.
 * **`Portfolio` Class** – Manages owned stocks using a `HashMap`, tracks the cash balance, and contains methods to buy/sell stocks.
