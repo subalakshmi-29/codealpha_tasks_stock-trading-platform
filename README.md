@@ -8,10 +8,14 @@ Stock Trading Platforms is a Java-based console application that simulates basic
 
 # 🚀 **Features**
 
-✅ **View Market Data** – Display a list of available stocks with their current prices.
+✅ **View Market Data** – Display a list of available stocks with their current price.
+
 ✅ **Buy Stocks** – Purchase stocks if you have enough balance.
+
 ✅ **Sell Stocks** – Sell owned stocks if you have sufficient shares.
+
 ✅ **View Portfolio** – Check your current stock holdings and remaining balance.
+
 ✅ **Interactive Menu** – Simple, text-based navigation through the application.
 
 # 🛠️ **Technologies Used**
